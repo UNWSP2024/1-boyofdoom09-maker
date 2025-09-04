@@ -5,3 +5,6 @@ def proverbs_22_29():
     print('he will not stand before obscure men.”')
     print('(Proverbs 22:29)')
 proverbs_22_29()
+# Elijah Quigley
+# date: 9/4/2025
+# Proverbs 22:29 Project
